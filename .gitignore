@@ -39,3 +39,6 @@
 
 ### My Ignores ###
 Go_Fiber_GraphQL_DEMO
+test.go
+dbConnection.json
+go.sum
